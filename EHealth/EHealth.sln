@@ -7,6 +7,12 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "angularapp", "angularapp\an
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapi", "webapi\webapi.csproj", "{325918A8-E4AA-41D7-A994-49FC2B753FFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelBuilder", "..\ModelBuilder\ModelBuilder.csproj", "{26E20EA6-7EB0-43A9-A77F-88FA0AF62110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\Data\Data.csproj", "{092547F7-F52A-48F5-980D-8E9E563B9F68}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DB", "..\DB\DB.sqlproj", "{AC395B76-61AF-43A2-AE9F-92D0AB865C57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +29,20 @@ Global
 		{325918A8-E4AA-41D7-A994-49FC2B753FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{325918A8-E4AA-41D7-A994-49FC2B753FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{325918A8-E4AA-41D7-A994-49FC2B753FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E20EA6-7EB0-43A9-A77F-88FA0AF62110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E20EA6-7EB0-43A9-A77F-88FA0AF62110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E20EA6-7EB0-43A9-A77F-88FA0AF62110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E20EA6-7EB0-43A9-A77F-88FA0AF62110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092547F7-F52A-48F5-980D-8E9E563B9F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092547F7-F52A-48F5-980D-8E9E563B9F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092547F7-F52A-48F5-980D-8E9E563B9F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092547F7-F52A-48F5-980D-8E9E563B9F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC395B76-61AF-43A2-AE9F-92D0AB865C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC395B76-61AF-43A2-AE9F-92D0AB865C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC395B76-61AF-43A2-AE9F-92D0AB865C57}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AC395B76-61AF-43A2-AE9F-92D0AB865C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC395B76-61AF-43A2-AE9F-92D0AB865C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC395B76-61AF-43A2-AE9F-92D0AB865C57}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

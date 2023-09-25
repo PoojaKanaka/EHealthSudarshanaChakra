@@ -60,7 +60,6 @@
     <Folder Include="DBO\Tables" />
     <Folder Include="DBO\StoredProcedures" />
     <Folder Include="DBO\Functions" />
-    <Folder Include="DBO\NewFolder1\" />
     <Folder Include="DBO\Scripts" />
   </ItemGroup>
   <ItemGroup>

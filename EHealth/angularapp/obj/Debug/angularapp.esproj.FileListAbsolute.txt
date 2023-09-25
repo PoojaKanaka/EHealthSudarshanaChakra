@@ -1,2 +1,0 @@
-C:\Users\kanaka\source\repos\EHealthSudarshanaChakra\EHealth\angularapp\obj\Debug\angularapp.esproj.SuggestedBindingRedirects.cache
-C:\Users\kanaka\source\repos\EHealthSudarshanaChakra\EHealth\angularapp\obj\Debug\angularapp.esproj.CoreCompileInputs.cache

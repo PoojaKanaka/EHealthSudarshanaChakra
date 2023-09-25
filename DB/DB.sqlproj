@@ -61,5 +61,9 @@
     <Folder Include="DBO\StoredProcedures" />
     <Folder Include="DBO\Functions" />
     <Folder Include="DBO\NewFolder1\" />
+    <Folder Include="DBO\Scripts" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DBO\Scripts\CreateAllTables.sql" />
   </ItemGroup>
 </Project>
